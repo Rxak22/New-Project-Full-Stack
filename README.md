@@ -1,4 +1,4 @@
-# News-Project-Full-stack
+# News-Website-Full-stack
 This project build in PHP connect with mySQL database. This project already hosting on free server [see real live site](https://rak-hotnews.000webhostapp.com). To see CMS [/admin]() then create your account.
 
 Here is all database table.
